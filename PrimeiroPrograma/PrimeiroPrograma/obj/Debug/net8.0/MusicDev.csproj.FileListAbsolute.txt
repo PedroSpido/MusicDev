@@ -1,0 +1,14 @@
+C:\Users\Pedro Spido\source\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net8.0\MusicDev.exe
+C:\Users\Pedro Spido\source\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net8.0\MusicDev.deps.json
+C:\Users\Pedro Spido\source\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net8.0\MusicDev.runtimeconfig.json
+C:\Users\Pedro Spido\source\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net8.0\MusicDev.dll
+C:\Users\Pedro Spido\source\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net8.0\MusicDev.pdb
+C:\Users\Pedro Spido\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\MusicDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Spido\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\MusicDev.AssemblyInfoInputs.cache
+C:\Users\Pedro Spido\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\MusicDev.AssemblyInfo.cs
+C:\Users\Pedro Spido\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\MusicDev.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Spido\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\MusicDev.dll
+C:\Users\Pedro Spido\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\refint\MusicDev.dll
+C:\Users\Pedro Spido\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\MusicDev.pdb
+C:\Users\Pedro Spido\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\MusicDev.genruntimeconfig.cache
+C:\Users\Pedro Spido\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\ref\MusicDev.dll
